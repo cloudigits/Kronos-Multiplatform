@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../sampleApp"
 
 SPEC CHECKSUMS:
-  sampleApp: 74ffcffb09857e525c843f48fcd5511e65e94800
+  sampleApp: e909326983bb06efca253dd34ef59f897c3fedad
 
 PODFILE CHECKSUM: 31aecb1c889393f7cb5f9aac6f63f896eb049a8e
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.16.2

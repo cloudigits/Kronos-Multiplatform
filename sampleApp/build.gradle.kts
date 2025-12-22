@@ -81,7 +81,7 @@ android {
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {
-        minSdk = libs.versions.minSdk.get().toInt()
+        minSdk = 23
         targetSdk = libs.versions.targetSdk.get().toInt()
 
         applicationId = "com.softartdev.kronos.sample"
